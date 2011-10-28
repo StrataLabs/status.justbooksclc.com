@@ -1,0 +1,4 @@
+cron:
+- description: periodic server checks
+  url: /check
+  schedule: every 30 minutes
